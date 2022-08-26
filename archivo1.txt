@@ -1,5 +1,4 @@
 hola git
 command git
 javascrip
-node.js
 express
