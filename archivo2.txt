@@ -1,2 +1,0 @@
-hola git 2
-add 1
