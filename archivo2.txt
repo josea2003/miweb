@@ -1,3 +1,4 @@
 home
 hello
 my friend
+how are you?
